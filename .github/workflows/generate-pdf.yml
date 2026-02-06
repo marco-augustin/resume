@@ -24,7 +24,7 @@ jobs:
           # build_html: true
 
       - name: Upload PDF as Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v6.0.0
         with:
           name: Marco_Augustin_CV
           path: output/README.pdf
