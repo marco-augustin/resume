@@ -15,10 +15,10 @@ Dipl.-Wirtsch.-Inform. (FH) | Team Lead & Senior Software Architect
  - **📍 Adresse:** 22113 Oststeinbek 
 
 
-- **📞 Telefon:** +49 auf Anfrage 
+- **📞 Telefon:** +49 [auf Anfrage] 
 
 
-- **📧 E-Mail:** m.augustin[at]dev-od.de 
+- **📧 E-Mail:** m.augustin [at] dev-od.de 
 
 
 - **🎂 Geburtsdatum:** 19.03.1980 
