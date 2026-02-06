@@ -9,19 +9,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v6.0.2
 
       - name: create pdf-folder
         run: mkdir -p output
 
       - name: Convert Markdown to PDF
-        uses: baileyjm02/markdown-to-pdf@v1
+        uses: baileyjm02/markdown-to-pdf@v1.2.0
         with:
           input_path: README.md
           output_dir: output
-          css_style: style.css
-        
-          # build_html: true
+          theme: style.css
 
       - name: Upload PDF as Artifact
         uses: actions/upload-artifact@v6.0.0
