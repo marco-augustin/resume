@@ -84,7 +84,7 @@ li {
     font-size: 10pt;
 }
 
-h3, h3 + p, h3 + ul {
+section, .job-entry, h3, h3 + p, h3 + ul {
     page-break-inside: avoid;
 }
 </style>
