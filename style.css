@@ -95,3 +95,28 @@ li {
 section, .job-entry, h3, h3 + p, h3 + ul {
     page-break-inside: avoid;
 }
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 30px; /* Abstand zum Profil-Text */
+}
+
+.header-content {
+    flex: 1; /* Nimmt den verfügbaren Platz ein */
+    padding-right: 30px; /* Abstand zum Foto */
+}
+
+.header-photo img {
+    width: 130px;          
+    height: auto;          /* Behält das Seitenverhältnis bei */
+    border-radius: 8px;    /* Moderne, leicht abgerundete Ecken */
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Dezenter Schatten für Tiefe */
+    object-fit: cover;     /* Stellt sicher, dass das Bild den Bereich füllt */
+}
+
+/* WICHTIG: Damit die H1 im Flex-Container nicht springt */
+.header-content h1 {
+    margin-top: 0;
+}
