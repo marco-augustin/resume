@@ -4,7 +4,8 @@
 > Dieses Repository dient als versionierte Basis für meinen professionellen Werdegang als **Dipl.-Wirtsch.-Inform. (FH)**.
 > - **CI/CD:** Automatisierte PDF-Generierung via GitHub Actions bei jedem Commit.
 > - **Tech-Stack:** Markdown & CSS für maximale Portabilität und sauberes Design.
-> - **Download:** Das fertige PDF zum Download: [cv-marco-augustin.pdf](https://github.com/marco-augustin/resume/releases/download/latest/cv-marco-augustin.pdf).
+ 
+[![Download PDF](https://img.shields.io/badge/Download-CV_Marco_Augustin-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/marco-augustin/resume/releases/download/latest/cv-marco-augustin.pdf)
 
 <div class="header-container">
   
