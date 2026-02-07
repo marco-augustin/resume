@@ -28,3 +28,13 @@ jobs:
           path: cv-marco-augustin.pdf
           if-no-files-found: error
           retention-days: 90
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        if: github.ref == 'refs/heads/main'
+        with:
+          tag_name: latest
+          name: "Latest Build: Marco Augustin CV"
+          files: cv-marco-augustin.pdf
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
