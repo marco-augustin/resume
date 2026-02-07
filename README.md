@@ -1,9 +1,15 @@
+<link rel="stylesheet" href="style.css">
+
 > ### <img src="https://api.iconify.design/lucide:terminal.svg?color=%231a3a5f" width="18" height="18" style="vertical-align: text-bottom;"> Resume-as-Code
 > Dieses Repository dient als versionierte Basis für meinen professionellen Werdegang als **Dipl.-Wirtsch.-Inform. (FH)**.
 > - **CI/CD:** Automatisierte PDF-Generierung via GitHub Actions bei jedem Commit.
 > - **Tech-Stack:** Markdown & CSS für maximale Portabilität und sauberes Design.
 > - **Download:** Das fertige PDF ist im Bereich [Releases] zu finden.
 
+<div class="header-container">
+  
+  <div class="header-content">
+      
 # Marco Augustin
 
 <div class="title-sub">Dipl.-Wirtsch.-Inform. (FH) | Team Lead & Senior Software Architect</div>
@@ -15,6 +21,10 @@
     <li><img src="https://api.iconify.design/lucide:calendar.svg?color=%234a5568" width="16" height="16"> Geb. 19.03.1980 in Güstrow </li>
 </ul>
 
+</div> <div class="header-photo">
+    <img src="portrait.jpg" alt="Marco Augustin Software Architect">
+  </div>
+</div>
 
 ## <img src="https://api.iconify.design/lucide:target.svg?color=%231a3a5f" width="22" height="22" style="vertical-align: bottom;"> <span>Profil</span>
 
