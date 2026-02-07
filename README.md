@@ -2,7 +2,7 @@
 > Dieses Repository dient als versionierte Basis für meinen professionellen Werdegang als **Dipl.-Wirtsch.-Inform. (FH)**.
 > - **CI/CD:** Automatisierte PDF-Generierung via GitHub Actions bei jedem Commit.
 > - **Tech-Stack:** Markdown & CSS für maximale Portabilität und sauberes Design.
-> - **Download:** Das fertige PDF findest du im Bereich [Releases] oder als Artifact im [Actions]-Tab.
+> - **Download:** Das fertige PDF ist im Bereich [Releases] zu finden.
 
 # Marco Augustin
 
@@ -80,8 +80,8 @@ Strategischer IT-Experte mit über 20 Jahren Erfahrung in der Entwicklung hochsk
 ## <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%231a3a5f" width="22" height="22" style="vertical-align: bottom;"> <span>Bildungsweg</span>
 
 * **Studium der Wirtschaftsinformatik** | Fachhochschule Wismar (09/2000 – 11/2004)
-* **Abschluss:** Dipl.-Wirtsch.-Inform. (FH)
-* **Schwerpunkte:** IT-Management, Finanzwirtschaft, SAP R3
+    * **Abschluss:** Dipl.-Wirtsch.-Inform. (FH)
+    * **Schwerpunkte:** IT-Management, Finanzwirtschaft, SAP R3
 
 
 * **Zivildienst** | Gehörlosenschule Güstrow (11/1998 – 11/1999)
