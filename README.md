@@ -29,6 +29,7 @@ Strategischer IT-Experte mit über 20 Jahren Erfahrung in der Entwicklung hochsk
 - **Data & Messaging:** MS SQL Server, Oracle, MongoDB, Redis, Apache Kafka 
 - **Architektur:** Microservices, Cloud-Native, REST/SOAP APIs 
 
+<div class="page-break"></div>
 
 ## <img src="https://api.iconify.design/lucide:briefcase.svg?color=%231a3a5f" width="22" height="22" style="vertical-align: bottom;"> <span>Berufserfahrung</span>
 
