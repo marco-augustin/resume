@@ -1,36 +1,28 @@
-🤖 Resume-as-Code
-Dieses Repository dient als versionierte Basis für meinen professionellen Werdegang als Dipl.-Wirtsch.-Inform. (FH).
-
-- CI/CD: Bei jedem Commit wird automatisch ein aktuelles PDF via GitHub Actions generiert.
-- Tech-Stack: Das Dokument selbst ist in Markdown verfasst und via CSS für maximale Lesbarkeit optimiert.
-- Download: Das fertige PDF findest du im Bereich [Releases] oder als Artifact im [Actions]-Tab.
-
+> ### <img src="https://api.iconify.design/lucide:terminal.svg?color=%231a3a5f" width="18" height="18" style="vertical-align: text-bottom;"> Resume-as-Code
+> Dieses Repository dient als versionierte Basis für meinen professionellen Werdegang als **Dipl.-Wirtsch.-Inform. (FH)**.
+> - **CI/CD:** Automatisierte PDF-Generierung via GitHub Actions bei jedem Commit.
+> - **Tech-Stack:** Markdown & CSS für maximale Portabilität und sauberes Design.
+> - **Download:** Das fertige PDF findest du im Bereich [Releases] oder als Artifact im [Actions]-Tab.
 
 # Marco Augustin
 
-Dipl.-Wirtsch.-Inform. (FH) | Team Lead & Senior Software Architect 
+<div class="title-sub">Dipl.-Wirtsch.-Inform. (FH) | Team Lead & Senior Software Architect</div>
 
-**Kontakt:**
-
- - **📍 Adresse:** 22113 Oststeinbek 
-
-
-- **📞 Telefon:** +49 [auf Anfrage] 
-
-
-- **📧 E-Mail:** m.augustin [at] dev-od.de 
+<ul class="contact-info">
+    <li><img src="https://api.iconify.design/lucide:map-pin.svg?color=%234a5568" width="16" height="16"> 22113 Oststeinbek </li>
+    <li><img src="https://api.iconify.design/lucide:phone.svg?color=%234a5568" width="16" height="16"> +49 [auf Anfrage] </li>
+    <li><img src="https://api.iconify.design/lucide:mail.svg?color=%234a5568" width="16" height="16"> m.augustin [at] dev-od.de </li>
+    <li><img src="https://api.iconify.design/lucide:calendar.svg?color=%234a5568" width="16" height="16"> Geb. 19.03.1980 in Güstrow </li>
+</ul>
 
 
-- **🎂 Geburtsdatum:** 19.03.1980 
-
-
-## 🎯 Profil
+## <img src="https://api.iconify.design/lucide:target.svg?color=%231a3a5f" width="22" height="22" style="vertical-align: bottom;"> <span>Profil</span>
 
 Strategischer IT-Experte mit über 20 Jahren Erfahrung in der Entwicklung hochskalierbarer Enterprise-Lösungen. Spezialisiert auf Cloud-Transformation, Microservices-Architekturen und moderne CI/CD-Prozesse. Erfahren in der Führung agiler Teams und der Modernisierung komplexer Legacy-Systeme.
 
 
 
-## 🛠 Technische Expertise
+## <img src="https://api.iconify.design/lucide:wrench.svg?color=%231a3a5f" width="22" height="22" style="vertical-align: bottom;"> <span>Technische Expertise</span>
 
 - **Core:** C# (bis .NET 10), EF Core, WPF (MVVM Pattern) 
 - **Cloud & DevOps:** MS Azure, Docker, Kubernetes, CI/CD, Azure DevOps 
@@ -38,7 +30,7 @@ Strategischer IT-Experte mit über 20 Jahren Erfahrung in der Entwicklung hochsk
 - **Architektur:** Microservices, Cloud-Native, REST/SOAP APIs 
 
 
-## 💼 Berufserfahrung
+## <img src="https://api.iconify.design/lucide:briefcase.svg?color=%231a3a5f" width="22" height="22" style="vertical-align: bottom;"> <span>Berufserfahrung</span>
 
 ### **Team Leiter Softwareentwicklung** | VPL Leasing GmbH
 
@@ -84,7 +76,7 @@ Strategischer IT-Experte mit über 20 Jahren Erfahrung in der Entwicklung hochsk
 
 
 
-## 🎓 Bildungsweg
+## <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%231a3a5f" width="22" height="22" style="vertical-align: bottom;"> <span>Bildungsweg</span>
 
 * **Studium der Wirtschaftsinformatik** | Fachhochschule Wismar (09/2000 – 11/2004)
 * **Abschluss:** Dipl.-Wirtsch.-Inform. (FH)
@@ -95,8 +87,7 @@ Strategischer IT-Experte mit über 20 Jahren Erfahrung in der Entwicklung hochsk
 * **Allgemeine Hochschulreife** | Gymnasium "Am Distelberg" (1998)
 
 
-## 🗣 Sprachen
+## <img src="https://api.iconify.design/lucide:languages.svg?color=%231a3a5f" width="22" height="22" style="vertical-align: bottom;"> <span>Sprachen</span>
 
 * **Deutsch:** Muttersprache 
-* **Englisch:** Verhandlungssicher 
-* **Französisch/Spanisch:** Grundkenntnisse
+* **Englisch:** Verhandlungssicher
